@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\OneDayDayone\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\TransitionCenter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:TransitionCenter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\Storage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:Storage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\TransitionCenter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:TransitionCenter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\ShowTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:ShowTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\ShowTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:ShowTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|K:\\OneDayDayone\\Project1\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ED26F-203E-4457-A682-DFBC0EE5AFD4}|Project1.vcxproj|solutionrelative:Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\fstream||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowTime.cpp",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\ShowTime.cpp",
+              "RelativeDocumentMoniker": "ShowTime.cpp",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\ShowTime.cpp",
+              "RelativeToolTip": "ShowTime.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T17:32:47.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sort.cpp",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\Sort.cpp",
+              "RelativeDocumentMoniker": "Sort.cpp",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\Sort.cpp",
+              "RelativeToolTip": "Sort.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T16:26:04.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sort.h",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\Sort.h",
+              "RelativeDocumentMoniker": "Sort.h",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\Sort.h",
+              "RelativeToolTip": "Sort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T16:25:56.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowTime.h",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\ShowTime.h",
+              "RelativeDocumentMoniker": "ShowTime.h",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\ShowTime.h",
+              "RelativeToolTip": "ShowTime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T16:25:29.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T16:19:56.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransitionCenter.cpp",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\TransitionCenter.cpp",
+              "RelativeDocumentMoniker": "TransitionCenter.cpp",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\TransitionCenter.cpp",
+              "RelativeToolTip": "TransitionCenter.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T16:15:13.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fstream",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\fstream",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\fstream",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:50:19.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransitionCenter.h",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\TransitionCenter.h",
+              "RelativeDocumentMoniker": "TransitionCenter.h",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\TransitionCenter.h",
+              "RelativeToolTip": "TransitionCenter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T03:47:31.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Storage.h",
+              "DocumentMoniker": "K:\\OneDayDayone\\Project1\\Storage.h",
+              "RelativeDocumentMoniker": "Storage.h",
+              "ToolTip": "K:\\OneDayDayone\\Project1\\Storage.h",
+              "RelativeToolTip": "Storage.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T03:06:54.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
